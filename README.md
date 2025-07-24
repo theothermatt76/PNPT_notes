@@ -1,1 +1,2 @@
-init
+- The numbered notes are based on the training materials provided by Heath Adams in 2019ish. Most of it is still very relevent, especially the methodology and labs.
+- Other notes are from various named resources. All of them are freely available.
